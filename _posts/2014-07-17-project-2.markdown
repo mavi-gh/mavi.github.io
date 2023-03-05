@@ -1,13 +1,13 @@
 ---
-title: Custom Rival lists
-subtitle: Custom Rival lists definition and steps to create and manage them.
+title: Competitor lists
+subtitle: Definition and steps to create and manage the custom competitor list feature.
 layout: default
 modal-id: 2
 date: 2022-01-01
 img: Social media feedback example
 thumbnail: escape-thumbnail.png
 alt: image-alt
-client: Administrator. Technical admin
+client: Administrator
 category: Concept and task
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 link: /files/Custom_Rivals.pdf
