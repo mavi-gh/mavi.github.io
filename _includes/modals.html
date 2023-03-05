@@ -17,14 +17,14 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Company:
+                                <li>Audience:
                                     <strong>{{ post.client }}</strong>
                                 </li>
-                                <li>Project:
+                                <li>Category:
                                     <strong>{{ post.category }}</strong>
                                 </li>
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <a href="{{ post.link }}"class="btn btn-default"><i class="fa fa-times"></i> Go to topic</button>
                         </div>
                     </div>
                 </div>

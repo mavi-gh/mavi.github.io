@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Signal capturing
+subtitle: Signal capturing overview
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2022-01-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+alt: Feedback example
+client: Administrator
+category: Concept
+description: Overview of the different email-to-web feedback management features to help admins choose which one fits best their business needs.
+link: /files/Signal_capturing.pdf
 ---
