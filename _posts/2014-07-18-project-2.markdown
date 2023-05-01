@@ -10,5 +10,5 @@ alt: Social media feedback example
 client: Administrator
 category: Concept and task
 description: Detailed description and steps on how to set up and use custom rival lists when Social Media add-on is configured.
-link: "/files/Custom-Rival-lists.pdf"
+link: "/assets/Custom-Rival-lists.pdf"
 ---

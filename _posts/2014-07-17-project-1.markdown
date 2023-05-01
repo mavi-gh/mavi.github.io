@@ -1,6 +1,6 @@
 ---
 title: Signal capturing
-subtitle: Signal capturing overview of the different email-to-web feedback management features
+subtitle: Signal capturing overview of the different feedback management features
 layout: default
 modal-id: 1
 date: 2022-01-01
@@ -10,5 +10,5 @@ alt: Feedback example
 client: Administrator
 category: Concept
 description: Overview of the different email-to-web feedback management features for admins choose which one fits best their business needs.
-link: "/files/Signal capturing.pdf"
+link: "/assets/Signal-capturing.pdf"
 ---
