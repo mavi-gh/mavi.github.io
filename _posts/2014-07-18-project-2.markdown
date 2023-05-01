@@ -9,6 +9,6 @@ thumbnail: rivals-thumbnail.png
 alt: Social media feedback example
 client: Administrator
 category: Concept and task
-description: Description and detailed steps on how to set up and use custom rival lists when Social Media add-on is configured.
+description: Detailed description and steps on how to set up and use custom rival lists when Social Media add-on is configured.
 link: "/files/Custom Rival lists.pdf"
 ---
