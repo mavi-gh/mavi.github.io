@@ -1,13 +1,14 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Developer hub
+subtitle: APIs to extend and integrate with Fielo Incentive Automation.
 layout: default
 modal-id: 3
 date: 2022-01-01
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: fielo.png
+thumbnail: fielo-thumbnail.png
+alt: Developer docs example
 client: Developer
 category: Reference
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: SDK and REST API documentation to extend and integrate with Fielo Incentive Automation.
+link: "https://docs.fielo.com/v2.56/reference/overview"
 ---
