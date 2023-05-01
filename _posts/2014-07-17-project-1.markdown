@@ -10,5 +10,5 @@ alt: Feedback example
 client: Administrator
 category: Concept
 description: Overview of the different email-to-web feedback management features for admins choose which one fits best their business needs.
-link: "/assets/Signal-capturing.pdf"
+link: "assets/Signal-capturing.pdf"
 ---
