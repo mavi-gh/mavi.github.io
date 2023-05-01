@@ -1,6 +1,6 @@
 ---
-title: Competitor lists
-subtitle: Definition and steps to create and manage the custom rival list feature.
+title: Rival lists
+subtitle: Definition and steps to create and manage Custom rival list.
 layout: default
 modal-id: 2
 date: 2022-01-01
@@ -9,6 +9,6 @@ thumbnail: rivals-thumbnail.png
 alt: Social media feedback example
 client: Administrator
 category: Concept and task
-description: Detailed description and steps on how to set up and use custom rival lists when Social Media add-on is configured.
+description: Detailed description and steps on how to set up and use Custom rival lists when Social Media add-on is configured.
 link: "assets/Custom-Rival-lists.pdf"
 ---
